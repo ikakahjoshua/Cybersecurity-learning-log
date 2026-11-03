@@ -6,8 +6,7 @@ The Linux filesystem hierarchy is the way files and directories are organised in
 
 Unlike having separate directory structures for different drives like windows for example, Linux uses a single hierarchical structure that starts from the root directory (/).
 
-Directories contain files and other directories, making in Linux 
-Makes it easier more organized and easier to locate.
+Directories contain files and other directories, making the Linux filesystem more organized and easier to navigate.
 
 ## The Root Directory (/)
 
