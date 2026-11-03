@@ -49,7 +49,11 @@ Throughout my exploration of the Linux filesystem, I came to understand that dir
 
 ## Screenshots
 
-Include relevant terminal screenshots.
+![Root directory listing](Images/root-directory-listing.png)
+
+![ETC, VAR and HOME directory listing](Images/etc-var-home-directory-listing.png)
+
+![Linux filesystem tree structure](Images/filesystem-tree-structure.jpg)
 
 ## Conclusion
 
