@@ -45,7 +45,7 @@ Commands used:
 
 ### Observations
 
-Document what you discovered while exploring your Kali filesystem.
+Throughout my exploration of the Linux filesystem, I came to understand that directories have different purposes and are all organized under the root directory /.
 
 ## Screenshots
 
@@ -53,4 +53,4 @@ Include relevant terminal screenshots.
 
 ## Conclusion
 
-Summarise what you understood about the Linux filesystem hierarchy and its importance.
+Understanding the Linux filesystem hierarchy makes it easier to navigate and manage a Linux system. Knowing where important files and directories are located is also useful when troubleshooting system issues and managing your Linux OS.
