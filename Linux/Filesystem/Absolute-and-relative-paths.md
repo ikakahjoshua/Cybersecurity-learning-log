@@ -79,32 +79,35 @@ Both paths can point to the same file or directory.
 
 ### 1. Creating a directory structure
 
-```bash
 mkdir -p ~/path-lab/{Documents,Downloads,Projects}
 
 Create some empty files:
 touch ~/path-lab/Documents/report.txt
 touch ~/path-lab/Downloads/notes.txt
 touch ~/path-lab/Projects/script.sh
+
 2. Checking the current working directory
 cd ~/path-lab/Documents
 pwd
+
 3. Accessing a file using an absolute path
 cat ~/path-lab/Documents/report.txt
+
 4. Accessing a file using a relative path
 cat ../Downloads/notes.txt
+
 5. Navigating using relative paths
 cd ../Projects
 pwd
+
 6. Exploring special path references
 cd .
 cd ..
 cd ../..
 cd ~
+
 7. Resolving a relative path into an absolute path
 realpath ~/path-lab/Documents/report.txt
-
-## Screenshots
 
 
 
