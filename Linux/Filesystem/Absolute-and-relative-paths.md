@@ -106,8 +106,5 @@ realpath ~/path-lab/Documents/report.txt
 
 ## Screenshots
 
-![Creating directory structure and files](Images/creating-directory-and-files.png)
-
-![Path navigation and file access experiments](Images/path-navigation-and-access.png)
 
 
