@@ -107,5 +107,13 @@ Create some empty files:
 7. Resolving a relative path into an absolute path
 - realpath ~/path-lab/Documents/report.txt
 
+## Screenshots
+
+### Creating Directories and Files
+![Creating Directories and Files](Images/creating-directory-and-files.png)
+
+### Path Navigation and Access
+![Path Navigation and Access](Images/path-navigation-and-access.png)
+
 
 
