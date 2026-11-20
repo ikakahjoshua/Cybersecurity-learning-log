@@ -78,23 +78,6 @@ Commands used:
 - `gpasswd` — Administers group membership and passwords.
 - `usermod -aG` — Adds a user to supplementary groups.
 
-## Practical Experiments
-
-Experiments will include:
-
-1. Inspecting the current user and identity.
-2. Examining UID and GID information.
-3. Inspecting `/etc/passwd`, `/etc/shadow`, and `/etc/group`.
-4. Creating a test user.
-5. Creating a test group.
-6. Adding a user to a supplementary group.
-7. Modifying user account information.
-8. Removing test accounts safely.
-
-## Observations
-
-Record the results of each experiment, including changes in account information, group membership, and system behaviour.
-
 ## Screenshots
 
 Screenshots of relevant commands and their outputs will be stored in the `Images/` directory.
